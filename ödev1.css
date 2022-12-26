@@ -1,0 +1,40 @@
+*{
+  margin:0 ; 
+  padding: 0; 
+  box-sizing: border-box;
+  
+  }
+  h1{color: whitesmoke;
+  text-align: center;}
+
+  body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2022/11/24/02/28/clouds-7613361_960_720.png);
+  }
+
+  form{
+    background-color: cornflowerblue;
+    text-align: center;
+    
+    
+
+
+  }
+   
+   label{
+    display: inline-block;
+    text-align: left;
+    width: 100px;
+    
+    
+    }
+    input{width: 200;
+      height: 25px;
+      border-radius: 10px;
+     
+    }
+
+  
+
+   
